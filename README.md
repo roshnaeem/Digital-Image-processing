@@ -1,3 +1,3 @@
 # Digital-Image-processing
 
-##Applications of DIP
+## Applications of DIP
